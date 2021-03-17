@@ -7,4 +7,4 @@ Use bitalino1 for the PLUX-RIOT v2.0 as bitalino hardware & sensors are now acce
 
 #### installation
 
-Drop the bitalino folder into `Documents/Energia/libraries` folder.
+Drop the bitalino1 folder into `Documents/Energia/libraries` folder.
